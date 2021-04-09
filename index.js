@@ -20,4 +20,4 @@ function add2(n) {
 const  two = 2
 
 }
-add2(7);
+add2();
