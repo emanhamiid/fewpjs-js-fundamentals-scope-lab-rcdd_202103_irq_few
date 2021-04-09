@@ -1,9 +1,9 @@
 let animal = "cat";
 
-function myAnimal(animal) {
+function myAnimal() {
   return myAnimal
 }
-myAnimal("dog");
+
 function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
