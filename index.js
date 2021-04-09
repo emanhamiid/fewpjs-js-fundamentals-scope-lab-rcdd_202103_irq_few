@@ -1,5 +1,5 @@
 let animal = "cat";
-mya
+myanimal=
 function myAnimal() {
   return myAnimal(animal);
 }
